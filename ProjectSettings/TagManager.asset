@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DraggingObj
+  - AreaBlock
+  - train
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ScreenWrite
+  - Water
+  - UI
+  - CubeNoteWrite
+  - CubeShow
+  - ObjCanvas
+  - RawImageObjs
+  - trainChange
+  - train
+  - wall
+  - player
+  - camera
+  - OnlySprite
+  - wallNotWrite
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

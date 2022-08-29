@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 819722968236e4866b4c44a03f37c854
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_oTransform: {instanceID: 0}
+  - m_oRigidbody: {instanceID: 0}
+  - m_oRigidbody2D: {instanceID: 0}
+  - uiManagerCanvasPrefab: {fileID: 4539833541223311609, guid: ee0def909f9414215ac518502693f8f8, type: 3}
+  - uiManagerCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

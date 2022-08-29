@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65ed0cce6f0ca4ce08c152dcc17a3303
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_oTransform: {instanceID: 0}
+  - m_oRigidbody: {instanceID: 0}
+  - m_oRigidbody2D: {instanceID: 0}
+  - blackBackPrefab: {fileID: 8169340590802497366, guid: 7ea210f64308f455aae0e03d2a965440, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
